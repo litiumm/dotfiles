@@ -1,0 +1,28 @@
+#window, #input {
+	background-color: #282A36;
+}
+
+#outer-box {
+	border: #44475A solid 2px;
+}
+
+#input {
+	padding: 0.5rem 1rem;
+	font-size: 18px;
+}
+
+#text {
+	font-family: FantasqueSansM Nerd Font;
+	font-size: 16px;
+}
+
+#entry {
+	margin: 0.25rem 0.5rem;
+	padding: 0.5rem 0.5rem;
+}
+
+#entry:selected { 
+	background-color: #44475A;
+}
+
+
